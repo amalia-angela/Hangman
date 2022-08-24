@@ -1,0 +1,9 @@
+J:\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.exe.config
+J:\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.exe
+J:\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.pdb
+J:\HangmanD-7\HangmanD-7\obj\Debug\Spanzuratoarea_D.csprojAssemblyReference.cache
+J:\HangmanD-7\HangmanD-7\obj\Debug\Jocul_Spanzuratoarea_D.Jocul_Spanzuratoarea.resources
+J:\HangmanD-7\HangmanD-7\obj\Debug\HangmanD_7.Properties.Resources.resources
+J:\HangmanD-7\HangmanD-7\obj\Debug\Spanzuratoarea_D.csproj.GenerateResource.cache
+J:\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.exe
+J:\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.pdb
